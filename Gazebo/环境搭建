@@ -1,3 +1,5 @@
 
 1、安装gazabo
+Gazebo 10 ---- Ubuntu 16.04
+
 curl -sSL http://get.gazebosim.org | sh
