@@ -12,3 +12,7 @@ wget https://packages.osrfoundation.org/gazebo.key -O - | sudo apt-key add -
 sudo apt-get update
 sudo apt-get install libgazebo10
 sudo apt-get install gazebo10
+
+2、运行gazebo
+eg:加载/usr/share/gazebo-xxx/worlds目录中的world。
+gazebo worlds/pioneer2dx.world
